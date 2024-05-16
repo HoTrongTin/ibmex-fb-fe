@@ -1,0 +1,9 @@
+#canvas {
+    background-color: #30c0df;
+    display: block;
+    margin: auto;
+}
+
+#canvas:focus-visible {
+    outline: none !important;
+}
